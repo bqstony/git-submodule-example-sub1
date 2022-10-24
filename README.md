@@ -1,0 +1,1 @@
+# git-submodule-example-sub1
