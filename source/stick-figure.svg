@@ -93,12 +93,11 @@
          inkscape:connector-curvature="0" />
     </g>   
 
-    <!-- hut
+    <!-- hut -->
     <path
        style="fill:#000000;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:1"
        d="m 77.107142,37.419642 c 31.372028,9.07143 61.610118,0.755952 61.610118,0.755952 L 138.33928,10.961309 H 74.839284 Z"
-       id="hut" />
-    -->
+       id="hut" />    
 
    <!-- face
     <g
