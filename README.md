@@ -7,7 +7,7 @@ This repository can used as a example of a submodule for a project.
 Execute the following command in your project root folder:
 
 ```cmd
-git submodule add -b master --name git-submodule-example-sub1 https://github.com/bqstony/git-submodule-example-sub1.git .\source\submodules\git-submodule-example-sub1
+git submodule add -b main --name git-submodule-example-sub1 https://github.com/bqstony/git-submodule-example-sub1.git .\source\submodules\git-submodule-example-sub1
 ```
 
 This creates a file named `.gitmodules` with the entry:
